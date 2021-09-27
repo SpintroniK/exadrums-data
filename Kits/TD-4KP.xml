@@ -1,0 +1,76 @@
+<root>
+    <kitName>TD-4KP</kitName>
+    <kitFolder/>
+    <Instrument type="Pad" volume="100">
+        <instrumentName>Snare</instrumentName>
+        <triggers>
+            <trigger location="DrumHead">0</trigger>
+        </triggers>
+        <sounds>
+            <sound type="DrumHead">SnareDrum/Snr_Acou_01.wav</sound>
+        </sounds>
+    </Instrument>
+    <Instrument type="Pad" volume="82">
+        <instrumentName>HiHat</instrumentName>
+        <triggers>
+            <trigger location="DrumHead">1</trigger>
+        </triggers>
+        <sounds>
+            <sound type="DrumHead">HiHat/HiHat.wav</sound>
+        </sounds>
+    </Instrument>
+    <Instrument type="Pad" volume="81">
+        <instrumentName>Kick</instrumentName>
+        <triggers>
+            <trigger location="DrumHead">2</trigger>
+        </triggers>
+        <sounds>
+            <sound type="DrumHead">BassDrum/BD_Acou_01.wav</sound>
+        </sounds>
+    </Instrument>
+    <Instrument type="Pad" volume="25">
+        <instrumentName>Tom2</instrumentName>
+        <triggers>
+            <trigger location="DrumHead">3</trigger>
+        </triggers>
+        <sounds>
+            <sound type="DrumHead">Tom/Tom01.wav</sound>
+        </sounds>
+    </Instrument>
+    <Instrument type="Pad" volume="44">
+        <instrumentName>Crash</instrumentName>
+        <triggers>
+            <trigger location="DrumHead">4</trigger>
+        </triggers>
+        <sounds>
+            <sound type="DrumHead">Crash/Crash_High.wav</sound>
+        </sounds>
+    </Instrument>
+    <Instrument type="Pad" volume="25">
+        <instrumentName>Tom1</instrumentName>
+        <triggers>
+            <trigger location="DrumHead">5</trigger>
+        </triggers>
+        <sounds>
+            <sound type="DrumHead">Tom/Tom01.wav</sound>
+        </sounds>
+    </Instrument>
+    <Instrument type="Pad" volume="61">
+        <instrumentName>Ride</instrumentName>
+        <triggers>
+            <trigger location="DrumHead">6</trigger>
+        </triggers>
+        <sounds>
+            <sound type="DrumHead">Ride/RideEdge.wav</sound>
+        </sounds>
+    </Instrument>
+    <Instrument type="Pad" volume="25">
+        <instrumentName>Floor Tom</instrumentName>
+        <triggers>
+            <trigger location="DrumHead">7</trigger>
+        </triggers>
+        <sounds>
+            <sound type="DrumHead">Tom/Tom03.wav</sound>
+        </sounds>
+    </Instrument>
+</root>

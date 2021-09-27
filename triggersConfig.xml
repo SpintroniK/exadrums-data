@@ -1,0 +1,58 @@
+<Triggers>
+    <Trigger sensorType="Discrete" sensorId="0">
+        <Threshold>60</Threshold>
+        <Gain>0.75</Gain>
+        <ScanTime>4000</ScanTime>
+        <MaskTime>40000</MaskTime>
+        <Response>Exponential2</Response>
+    </Trigger>
+    <Trigger sensorType="Discrete" sensorId="1">
+        <Threshold>100</Threshold>
+        <Gain>1</Gain>
+        <ScanTime>4000</ScanTime>
+        <MaskTime>60000</MaskTime>
+        <Response>Exponential2</Response>
+    </Trigger>
+    <Trigger sensorType="Discrete" sensorId="2">
+        <Threshold>50</Threshold>
+        <Gain>1</Gain>
+        <ScanTime>4000</ScanTime>
+        <MaskTime>40000</MaskTime>
+        <Response>Loud1</Response>
+    </Trigger>
+    <Trigger sensorType="Discrete" sensorId="3">
+        <Threshold>50</Threshold>
+        <Gain>1.5</Gain>
+        <ScanTime>4000</ScanTime>
+        <MaskTime>60000</MaskTime>
+        <Response>Linear</Response>
+    </Trigger>
+    <Trigger sensorType="Discrete" sensorId="4">
+        <Threshold>70</Threshold>
+        <Gain>1</Gain>
+        <ScanTime>4000</ScanTime>
+        <MaskTime>60000</MaskTime>
+        <Response>Linear</Response>
+    </Trigger>
+    <Trigger sensorType="Discrete" sensorId="5">
+        <Threshold>50</Threshold>
+        <Gain>1.5</Gain>
+        <ScanTime>4000</ScanTime>
+        <MaskTime>60000</MaskTime>
+        <Response>Linear</Response>
+    </Trigger>
+    <Trigger sensorType="Discrete" sensorId="6">
+        <Threshold>50</Threshold>
+        <Gain>1.25</Gain>
+        <ScanTime>4000</ScanTime>
+        <MaskTime>60000</MaskTime>
+        <Response>Linear</Response>
+    </Trigger>
+    <Trigger sensorType="Discrete" sensorId="7">
+        <Threshold>50</Threshold>
+        <Gain>1.5</Gain>
+        <ScanTime>4000</ScanTime>
+        <MaskTime>60000</MaskTime>
+        <Response>Exponential2</Response>
+    </Trigger>
+</Triggers>

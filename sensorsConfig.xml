@@ -1,0 +1,6 @@
+<SensorsConfig>
+    <SamplingRate>1000000</SamplingRate>
+    <Resolution>10</Resolution>
+    <Type>Spi</Type>
+    <HddDataFolder>/usr/share/exadrums/Data/data/</HddDataFolder>
+</SensorsConfig>
